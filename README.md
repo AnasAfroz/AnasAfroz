@@ -26,7 +26,7 @@
 -  *anasafroz675@gmail.com*
 
 -
--  *👀 in am 15 years old*
+- 
 
 <h3 align="left">let's Connect:</h3>
 <p align="left">
