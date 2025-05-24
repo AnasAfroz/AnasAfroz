@@ -5,16 +5,16 @@
 <<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <a href="https://twitter.com/anasafroz" target="blank"><img src="https://img.shields.io/twitter/follow/anasafroz?logo=twitter&style=for-the-badge" alt="anasafroz" /></a> </p>
-🔭 I’m currently working on *c++*
+🔭 I’m currently working on   Web Development and c++ 
 
 - 🎯 Current Goals
--  *const goals = { learning: ["Machine Learning", "AI Development", "Data Science"]};*
+-  *const goals = { learning: data science, web dev , machine learning }
 
 
-| 💻 Tech Stack | 🎭 Favs Club     | 🧠 Current Focus |
-|---------------|------------------|------------------|
-| Python        | FC Barcelona     | C++              |
-| C++           | Manchester City  | Data Science     |
+| 💻 Tech Stack | 🎭 Favs marvel movie     | 🧠 Current Focus |
+|---------------|-----------------      -|------------------|
+| Python        | infinity war               | C++              |
+| C++           |    NO way home           | Data Science     |
 
 
 
