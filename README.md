@@ -11,16 +11,13 @@
 -  *const goals = { learning: data science, web dev , machine learning }
 
 
-| 💻 Tech Stack | 🎭 Favs marvel movie     | 🧠 Current Focus |
-|---------------|-----------------      -|------------------|
-| Python        | infinity war               | C++              |
-| C++           |    NO way home           | Data Science     |
+
 
 
 
 -                                
 
-- 💬 About me-  **•💻 Self-taught developer crafting so
+- 💬 About me- •💻 Self-taught developer crafting so
 -  • marvel enthusiast
 -  🎯 Passionate about building intuitive and efficient applications**
 -  *anasafroz675@gmail.com*
