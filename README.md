@@ -5,21 +5,16 @@
 <<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <a href="https://twitter.com/anasafroz" target="blank"><img src="https://img.shields.io/twitter/follow/anasafroz?logo=twitter&style=for-the-badge" alt="anasafroz" /></a> </p>
-🔭 I’m currently working on   Web Development and c++ 
+🔭 I’m currently working on Web Development 
 
 - 🎯 Current Goals
--  *const goals = { learning: data science, web dev , machine learning }
-
-
-
-
-
+-   learning web dev, data science, machine learning
 
 -                                
 
 - 💬 About me- •💻 Self-taught developer crafting so
 -  • marvel enthusiast
--  🎯 Passionate about building intuitive and efficient applications**
+-  🎯 Passionate about building intuitive and efficient applications
 -  *anasafroz675@gmail.com*
 
 -
