@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hey guys, I'm ANAS AFROZ
+# 👨‍💻 Hey guys, I'm Anas Afroz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Passionate+Developer+%F0%9F%92%BB;Anime+Enthusiast+%F0%9F%8E%AD;Turning+Dreams+into+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
