@@ -38,6 +38,16 @@
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 </details>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAAZIQ-ALI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAZIQ-ALI&layout=compact&langs_count=7&theme=tokyonight&border_radius=15" />
+</div>
+
+
+
+
 
 ## 🛠️ Skills
 
