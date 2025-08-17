@@ -23,7 +23,7 @@
 
 <div align="center">
 
-| 💻 **Tech Stack** | 🎭 **Fav Football**  | 🧠 **Current Focus** |
+| 💻 **Tech Stack** | 🎭 **Fav club**  | 🧠 **Current Focus** |
 |:-----------------:|:-------------------:|:--------------------:|
 | Python            | FC Barcelona        | Web Development      |
 | C++               | Real Madrid         | Data Science         |
